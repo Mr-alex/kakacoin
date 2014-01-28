@@ -1,0 +1,9 @@
+Building KaKaCoin
+
+See doc/readme-qt.rst for instructions on building KaKaCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KaKaCoin.
+
+See doc/build-*.txt for instructions on building kakacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of KaKaCoin.
