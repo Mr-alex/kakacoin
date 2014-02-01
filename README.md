@@ -18,5 +18,7 @@ START
 Tue, 28 Jan 2014 19:30:00 GMT
 http://www.kakacoin.com
 
+
+
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2014      KaKaCoin Developers
